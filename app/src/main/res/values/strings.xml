@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Justjava</string>
+    <string name="choose_country">Choose a place</string>
+    <string name="choose_order">what\'s your order</string>
+
+
+
+    <string-array name="order_array">
+        <item>Tea</item>
+        <item>coffee</item>
+        <item>Donut</item>
+        <item>Biscuit</item>
+        <item>Milk</item>
+        <item>sandwich</item>
+        <item>Burger</item>
+    </string-array>
+    <string-array name="country_array">
+        <item>Australia</item>
+        <item>United States</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>India</item>
+    </string-array>
+</resources>
